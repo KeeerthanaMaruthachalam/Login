@@ -1,0 +1,24 @@
+{
+  "name": "meanauthapp",
+  "version": "1.0.0",
+  "description": "MEAN stack authentication",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app"
+  },
+  "dependencies": {
+    "bcryptjs": "*",
+    "body-parser": "*",
+    "cors": "*",
+    "expres": "*",
+    "jsonwebtoken": "*",
+    "mongoose": "*",
+    "ng-flash-messages": "^0.3.0",
+    "passport": "*",
+    "passport-jwt": "*"
+  },
+  "keywords": [],
+  "author": "Keerthana",
+  "license": "ISC"
+}
